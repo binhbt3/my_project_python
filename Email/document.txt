@@ -1,0 +1,5 @@
+# We use python to work with email (gmail,...). 
+# We use module : SMTP (Simple Mail Transfer Protocol)
+
+
+TO install pyzmail use command:  easy_install pyzmail

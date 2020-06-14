@@ -1,0 +1,30 @@
+2020-06-13 19:32:24,045 - WARNING -i is 0, total is 0
+2020-06-13 19:32:24,046 - WARNING -i is 1, total is 0
+2020-06-13 19:32:24,046 - WARNING -i is 2, total is 0
+2020-06-13 19:32:24,046 - WARNING -i is 3, total is 0
+2020-06-13 19:32:24,046 - WARNING -i is 4, total is 0
+2020-06-13 19:32:24,046 - CRITICAL -Return value is 0
+2020-06-13 21:02:27,647 - WARNING -i is 0, total is 0
+2020-06-13 21:02:27,647 - WARNING -i is 1, total is 0
+2020-06-13 21:02:27,647 - WARNING -i is 2, total is 0
+2020-06-13 21:02:27,647 - WARNING -i is 3, total is 0
+2020-06-13 21:02:27,647 - WARNING -i is 4, total is 0
+2020-06-13 21:02:27,647 - CRITICAL -Return value is 0
+2020-06-13 21:03:42,270 - WARNING -i is 0, total is 0
+2020-06-13 21:03:44,866 - WARNING -i is 1, total is 0
+2020-06-13 21:03:46,548 - WARNING -i is 2, total is 0
+2020-06-13 21:03:55,566 - WARNING -i is 3, total is 0
+2020-06-13 21:03:56,775 - WARNING -i is 4, total is 0
+2020-06-13 21:03:57,515 - CRITICAL -Return value is 0
+2020-06-13 21:12:53,751 - WARNING -i is 0, total is 0
+2020-06-13 21:12:53,755 - WARNING -i is 1, total is 0
+2020-06-13 21:12:53,755 - WARNING -i is 2, total is 0
+2020-06-13 21:12:53,755 - WARNING -i is 3, total is 0
+2020-06-13 21:12:53,755 - WARNING -i is 4, total is 0
+2020-06-13 21:12:53,755 - CRITICAL -Return value is 0
+2020-06-13 21:13:14,380 - WARNING -i is 0, total is 0
+2020-06-13 21:13:14,396 - WARNING -i is 1, total is 0
+2020-06-13 21:13:14,396 - WARNING -i is 2, total is 0
+2020-06-13 21:13:14,396 - WARNING -i is 3, total is 0
+2020-06-13 21:13:14,396 - WARNING -i is 4, total is 0
+2020-06-13 21:13:27,899 - CRITICAL -Return value is 0
